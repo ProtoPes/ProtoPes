@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ProtoPes
 - 👀 I’m interested in Skating
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on Elon Musk !
 - 📫 How to reach me [t.meProtoPes](https://t.me/ProtoPes)
 
 <!---
